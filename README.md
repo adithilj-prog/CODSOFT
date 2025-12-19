@@ -1,7 +1,7 @@
-# CODSOFT
+# AI Related
 A journey through AI fundamentals — rule-based chatbot, logic design, and hands-on learning with C++.
 
-# CodSoft Internship – Tasks
+# AI Tasks
 
 This repository contains my completed tasks for the **CodSoft Internship**.  
 Each task demonstrates practical coding, problem‑solving, and AI skills.
@@ -58,7 +58,6 @@ Each task demonstrates practical coding, problem‑solving, and AI skills.
 - Showcase practical coding and AI skills.  
 - Demonstrate structured documentation in Markdown.  
 - Provide transparency with demo code, algorithms, and AI deliverables.  
-- Build a portfolio of completed internship tasks for recruiters and mentors.
 
 ---
 
